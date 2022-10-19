@@ -17,11 +17,6 @@ Para qualquer tipo de Suporte entre no Discord > https://discord.gg/NmgHNWPQ64
 - Modificar estoque via MongoDB / Discord
 
 
-## Suporte
-
-Para qualquer tipo de Suporte entre no Discord > https://discord.gg/NmgHNWPQ64
-
-
 ## Instalação
 
 **1º** - Use **npm i** para instalar todas as dependências necessárias.
