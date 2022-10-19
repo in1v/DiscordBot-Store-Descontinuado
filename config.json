@@ -1,0 +1,15 @@
+{
+    "token": "TOKEN DO BOT",
+    "prefix": ".", 
+    "mongo_url": "SUA MONGODB URL",
+    "accessToken": "SEU accessToken DO MERCADOPAGO",
+    "color": "COR QUE DESEJA QUE TENHA NA EMBED", 
+    "author": "LINK DO GIF/IMAGEM DA SUA LOJA", 
+    "owner": "Seu ID",
+    "nome": "Nome da loja",
+    "footer": "",
+    "categoria": "ID da categoria dos produtos",
+    "logs": "ID do Canal onde o log das compras vai aparecer"
+  }
+  
+  
