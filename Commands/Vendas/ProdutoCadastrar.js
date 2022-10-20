@@ -86,6 +86,6 @@ const run = async (client, message) => {
 
 module.exports = {
     run,
-    name: 'criarproduto',
+    name: 'cadastrarproduto',
     aliases: ["pcad", "produtocadastrar", "cadastrar-produto"],
 };
