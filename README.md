@@ -1,4 +1,4 @@
-<h1 align="center"> Discord Bot Store </h1>
+<h1 align="center"> DiscordBot Store </h1>
 
 
 
